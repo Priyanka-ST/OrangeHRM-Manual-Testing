@@ -1,25 +1,39 @@
 # OrangeHRM Manual Testing Project
 
 ## Project Overview
-This repository contains a complete manual testing project performed on the OrangeHRM application.
+This project demonstrates end-to-end manual testing of the OrangeHRM demo web application.
 
 ## Application Under Test
-- Application Name: OrangeHRM
-- Testing Type: Manual Testing
-- Testing Level: System Testing
+URL: https://opensource-demo.orangehrmlive.com/
 
-## Testing Artifacts
-- Requirement Analysis
-- Test Plan & Scope
+## Modules Covered
+- Login
+- Dashboard
+- Add Employee
+- Logout
+
+## Testing Types Performed
+- Functional Testing
+- Smoke Testing
+- Regression Testing
+- UI Validation
+
+## Test Artifacts
 - Test Scenarios
 - Test Cases
-- Defect Report (Sample)
-- Test Execution Report (Sample)
+- Test Execution Report
+- Defect Report
 
 ## Tools Used
 - MS Word
 - MS Excel
 - GitHub
 
-## Objective
-To demonstrate end-to-end manual testing activities following the Software Testing Life Cycle (STLC).
+## Key Highlights
+- Designed detailed test scenarios and test cases
+- Covered positive and negative test flows
+- Followed industry-standard QA documentation format
+
+## Author
+Priyanka K
+Software Test Engineer
